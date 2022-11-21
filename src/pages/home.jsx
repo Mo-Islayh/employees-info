@@ -3,7 +3,7 @@ import { Submit, Title } from "../components/Sign"
 
 const HomePage = () => {
   return (
-    <div className="sign-container">
+    <div className="main-container">
       <div className="wrapper">
         <div className="form-container">
           <Title text="Home Page" />
